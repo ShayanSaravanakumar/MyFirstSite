@@ -57,4 +57,3 @@
         <p>Whether you're strumming chords around a campfire or shredding solos on stage, the guitar has a place in the hearts of musicians and music enthusiasts worldwide. So, pick up a guitar and start your musical journey today!</p>
     </main>
 </body>
-</html>
