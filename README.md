@@ -56,4 +56,12 @@
         
         <p>Whether you're strumming chords around a campfire or shredding solos on stage, the guitar has a place in the hearts of musicians and music enthusiasts worldwide. So, pick up a guitar and start your musical journey today!</p>
     </main>
+
+         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" alt="Acoustic guitar" width="290" height="500">
+   
+    <img src="https://media.guitarcenter.com/is/image/MMGS7/L46834000001000-02-600x600.jpg" alt"electric guitar" width="500" height="500" Align="right">
+
+
+
+
 </body>
