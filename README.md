@@ -1,27 +1,29 @@
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Guitar: A Fantastic Musical Instrument</title>
     <style>
-        body {
+        body 
+        {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
             margin: 0;
             padding: 0;
         }
 
-        header {
+        header 
+        {
             background-color: #333;
             color: #fff;
             padding: 20px 0;
             text-align: center;
         }
 
-        h1 {
+        h1 
+        {
             font-size: 36px;
         }
 
-        main {
+        main
+        {
             max-width: 800px;
             margin: 20px auto;
             padding: 20px;
@@ -29,7 +31,8 @@
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
 
-        p {
+        p
+        {
             font-size: 18px;
             line-height: 1.5;
         }
