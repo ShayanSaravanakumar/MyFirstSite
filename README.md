@@ -43,6 +43,7 @@
         <h1>The Guitar: A Fantastic Musical Instrument</h1>
     </header>
     <main>
+        <h3>Why you should buy a guitar</h3>
         <p>The guitar is one of the most popular and versatile musical instruments in the world. Here are some reasons why it's a fantastic choice for both beginners and experienced musicians:</p>
         
         <ul>
