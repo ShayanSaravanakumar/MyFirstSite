@@ -58,7 +58,7 @@
 
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png" alt="Acoustic guitar" width="290" height="500">
    
-    <img src="https://media.guitarcenter.com/is/image/MMGS7/L46834000001000-02-600x600.jpg" alt"electric guitar" width="500" height="500" Align="right">
+          <img src="https://media.guitarcenter.com/is/image/MMGS7/L46834000001000-02-600x600.jpg" alt"electric guitar" width="500" height="500" Align="right">
 
 
 
