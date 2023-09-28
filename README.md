@@ -48,7 +48,7 @@
         
         <ul>
             <li><strong>Accessibility:</strong> Guitars are widely available and come in various sizes and price ranges, making them accessible to people of all ages and backgrounds.
-            <br> You can buy guitars from here online or go to the store easily: <a href="https://www.guitarcenter.com/?source=4WWRWXGT">Guitar Center</a> </br>
+            <br> You can buy guitars from here online or go to the store easily: <a href="https://www.guitarcenter.com/?source=4WWRWXGT">Guitar Center</a>
             </li>
             <li><strong>Portability:</strong> Guitars are relatively compact and easy to carry, allowing you to play music wherever you go.</li>
             <li><strong>Versatility:</strong> The guitar can be used to play a wide range of music genres, from classical to rock, pop, blues, and more.</li>
